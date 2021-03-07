@@ -2,9 +2,11 @@
 
 Figure out the songs in your library that Spotify has removed from their system
 
-![Playlist with missing songs](playlist.png.jpg?raw=true "Playlist with missing songs")
+Missing Songs
+![Playlist with missing songs](playlist.png "Playlist with missing songs")
 
-![Results](results.png.jpg?raw=true "Recovered Song Output")
+Recovered Songs
+![Results](results.png "Recovered Song Output")
 
 ## Usage
 
