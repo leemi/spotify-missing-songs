@@ -1,6 +1,6 @@
 # Spotify Missing Song Recovery
 
-Figure out the songs in your library that Spotify has removed from their system
+Figure out the songs in your library that Spotify has removed from their system by searching the [Wayback Machine](https://archive.org/web/).
 
 Missing Songs
 ![Playlist with missing songs](playlist.png "Playlist with missing songs")
